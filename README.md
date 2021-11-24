@@ -1,7 +1,7 @@
 ### Salve! Eu sou o Japa👋
 
 
-- 🔭 Atualmente trabalho com C# .NET
+- 👺 Atualmente trabalho com C# .NET
 - 🌱 Estudando C# .NET, HTML, CSS e JS
 - 📫 Contate-me no email: diegokoga1@gmail.com
 
